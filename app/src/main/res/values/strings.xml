@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lbl_login">User</string>
+    <string name="lbl_password">Password</string>
+
+    <string name="msg_welcome">Welcome %s!</string>
+
+    <string name="lbl_height">height</string>
+    <string name="lbl_weight">weight</string>
+    <string name="lbl_calculate">calculate</string>
+    <string name="msg_resultadoIMC">"o Resultado eh: $f"</string>
+    <string name="lbl_resultado">Resultado</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_description">Description</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_add">Add</string>
+    <string name="msg_required">Campo Obrigatorio</string>
+    <string name="msg_save_success">Registro Salvo com Sucesso!</string>
+</resources>
